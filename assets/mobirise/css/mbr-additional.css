@@ -1344,7 +1344,7 @@ a {
 }
 .cid-sKqFGPvuaw .mbr-iconfont {
   font-size: 3rem;
-  color: #0196e3;
+  color: #36187d;
   padding: 2rem;
   border-radius: 50%;
   transition: all 0.3s;
@@ -1394,6 +1394,12 @@ a {
   opacity: 1;
   background: #000;
   color: #fff;
+}
+.cid-sKqFGPvuaw .mbr-section-title {
+  color: #36187d;
+}
+.cid-sKqFGPvuaw .mbr-section-subtitle {
+  color: #36187d;
 }
 .cid-svGYfOiMwL {
   padding-top: 4rem;
